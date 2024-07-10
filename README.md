@@ -1,2 +1,2 @@
 # Deneme
-Bu reponun amacı GitHub eğitimine yardımcı olmasıdır
+Bu reponun amacı GitHub eğitimine yardımcı olmaktır
